@@ -1,0 +1,132 @@
+body {
+     margin: 0;
+}
+
+
+
+header {
+background-color: antiquewhite;
+height: 40px;
+}
+nav{
+display: flex;
+justify-content: space-between;
+padding-left: 100px;
+padding-right: 100px;
+padding-top: 12px;
+}
+nav a {
+    color: black;
+    font-size: 20px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: red;
+}
+
+h1{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+.divPai {
+    display: flex;
+    justify-content: space-between;
+}
+
+.divFilho1 {
+    background-color: brown;
+    height: 400px;
+    width: 33.33%;
+    background-image: url(img/download.jfif);
+    background-size: cover;
+}
+.divFilho2 {
+background-color: beige;
+height: 400px;
+width: 33.33%;
+background-image: url(img/download.jfif);
+background-size: cover;
+}
+.divFilho3 {
+    background-color: black;
+    height: 400px;
+    width: 33.33%;
+background-image: url(img/download.jfif);
+background-size: cover;
+}
+.divpai {
+    display: flex;
+    justify-content: space-between;
+}
+
+.divfilho1 {
+    background-color: brown;
+    height: 400px;
+    width: 33.33%;
+    background-image: url(img/images\ \(3\).jfif);
+    background-size: cover;
+}
+.divfilho2 {
+background-color: beige;
+height: 400px;
+width: 33.33%;
+background-image: url(img/images\ \(4\).jfif);
+background-size: cover;
+}
+.divfilho3 {
+    background-color: black;
+    height: 400px;
+    width: 33.33%;
+background-image: url(img/images\ \(2\).jfif);
+background-size: cover;
+}
+.divpai2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.divfilho4 {
+    background-color: brown;
+    height: 400px;
+    width: 33.33%;
+    background-image: url(img/9773c837a3ed7df196d908dc30462b16856e7272_hq.jpg);
+    background-size: cover;
+}
+.divfilho5 {
+background-color: beige;
+height: 400px;
+width: 33.33%;
+background-image: url(img/coisas-totalmente-aleatorias-23905850-200520221900.jpg);
+background-size: cover;
+}
+.divfilho6 {
+    background-color: black;
+    height: 400px;
+    width: 33.33%;
+background-image: url(img/images\ \(6\).jfif);
+background-size: cover;
+}
+footer {
+    background-color: antiquewhite;
+    height: 40px;
+    }
+    nav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 12px;
+    }
+    nav a {
+        color: black;
+        font-size: 20px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-decoration: none;
+    }
+    
+    nav a:hover {
+        color: red;
+    }
